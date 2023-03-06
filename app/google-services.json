@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "128911434143",
+    "project_id": "wavychat-885fd",
+    "storage_bucket": "wavychat-885fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128911434143:android:6f6bfdf0022e4dcb685daa",
+        "android_client_info": {
+          "package_name": "com.oajstudios.wavychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128911434143-lb782fb5kopousedidlaakhkneo3gfif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oajstudios.wavychat",
+            "certificate_hash": "9d0dc5af5000f459cbf3493ff1d52f409db7769d"
+          }
+        },
+        {
+          "client_id": "128911434143-1qaaar7vce7eh0jdlpvsmqpifv97qibr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC34T5gG5yc0TWj-Pk9ePLE3XLWreqRlsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128911434143-1qaaar7vce7eh0jdlpvsmqpifv97qibr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
